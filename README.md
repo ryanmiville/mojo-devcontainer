@@ -8,7 +8,7 @@ Dockerfile copied from the official [Mojo github repository](https://github.com/
 
 VSCode will prompt you to open the dev container when you open the project. Do not do this yet. First you must add your Modular authentication key to `devcontainer.json`. To find your authentication key:
 
-1. Log in at developer.modular.com
+1. Log in at [developer.modular.com](developer.modular.com)
 2. Copy your authentication key. You will find it in the install instructions that should look something like
 ```sh
 curl https://get.modular.com | sh - && \
